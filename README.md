@@ -6,3 +6,7 @@ description: >-
 
 # Welcome
 
+Welcome to the home of feature rich Jennifer, _the new girl on the block_! \(ITS NOT JUST A GIRL :D\)
+
+
+
