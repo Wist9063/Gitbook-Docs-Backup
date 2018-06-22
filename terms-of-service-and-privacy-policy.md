@@ -70,9 +70,7 @@ We use regular Malware Scanning.
   
 Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all data you supply is encrypted via Secure Socket Layer \(SSL\) technology.  
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.  
-For your convenience we may store your credit card information longer than 30 days in order to expedite future orders, and to automate the billing process.  
-  
-**We use cookies to:**      
+For your convenience we may store your credit card information longer than 30 days in order to expedite future orders, and to automate the billing process.
 {% endtab %}
 
 {% tab title="Do we use \'cookies\'?" %}

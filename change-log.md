@@ -4,6 +4,27 @@ description: This is where we log changes. (Hence the title)
 
 # Change Log
 
+## Version 2.1.1 - Friday, 22, 2018
+
+### Added
+
+* "Jennifer is typing..." 
+
+### Fixed
+
+* Discord.js master errors 
+* Role commands
+
+### Changed
+
+* Most embeds to look more nicerrrrr!
+
+### Disabled
+
+* N/A
+
+~~_**fortnite and PUBG lookup commands?!?!?!?!?!?**_~~
+
 ## Version 2.1.0 - Sunday, 17, 2018
 
 ### Added
@@ -17,7 +38,7 @@ description: This is where we log changes. (Hence the title)
 ### Changed
 
 * Permission layout
-* Fixed commande layout core
+* Fixed command layout core
 
 ### Disabled
 
