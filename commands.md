@@ -1,11 +1,8 @@
----
-description: >-
-  Command list. (Not in any
-  order)                                                                                                                           
-  Our prefix is j), J), and Jennifer#0473
----
-
 # Command List
+
+We have only 3 prefixes which are, j\), J\), and @Jennifer\#0473
+
+If you have any more questions please join out hub [here](https://discord.gg/sRATVAR).
 
 | Name | Perms Needed | Usage | Description  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
