@@ -1,12 +1,12 @@
 ---
-description: The command list for Jennifer.
+description: The command list for Jennifer.a
 ---
 
 # Command List
 
-We have only 3 prefixes which are, j\), J\), and @Jennifer\#0473
+Jennifer have 3 prefixes which are j\), J\), and @Jennifer
 
-If you have any more questions please join out hub [here](https://discord.gg/sRATVAR).
+Have any questions? Join our hub! Click [here](https://discord.gg/sRATVAR).
 
 | Name | Perms Needed | Usage | Description  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
