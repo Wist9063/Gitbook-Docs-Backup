@@ -1,5 +1,5 @@
 ---
-description: The command list for Jennifer.a
+description: The command list for Jennifer.
 ---
 
 # Command List
