@@ -1,3 +1,7 @@
+---
+description: The command list for Jennifer.
+---
+
 # Command List
 
 We have only 3 prefixes which are, j\), J\), and @Jennifer\#0473
