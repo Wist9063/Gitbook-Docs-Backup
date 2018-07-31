@@ -8,7 +8,7 @@ description: This page will discuss our T.O.S. and Privacy Policy.
 
 Last updated: June 16, 2018
 
-Please read these Terms of Service \("Terms", "Terms of Service"\) carefully before using the hexaplexsoftware.ga website \(the "Service"\) operated by HexaplexSoftware \("us", "we", or "our"\).
+Please read these Terms of Service \("Terms", "Terms of Service"\) carefully before using the hexaplexsoftware.ga website or The Jennifer Project bot \("Jennifer"\) \(the "Service"\) operated by HexaplexSoftware \("us", "we", or "our"\).
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -42,7 +42,7 @@ By continuing to access or use our Service after those revisions become effectiv
 
 ### Contact Us
 
-If you have any questions about these Terms, please contact us.
+If you have any questions about these Terms, please contact us on discord using this invite link. [https://discord.gg/0xxkiR1rO4zRsYLp](https://discord.gg/0xxkiR1rO4zRsYLp)
 
 ## Privacy Policy
 
