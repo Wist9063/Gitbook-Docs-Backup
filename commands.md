@@ -4,12 +4,12 @@ description: The command list for Jennifer.
 
 # Command List
 
-Jennifer have 3 prefixes which are j\), J\), and @Jennifer
+Jennifer has 3 prefixes which are j\), J\), and @Jennifer
 
 Have any questions? Join our hub! Click [here](https://discord.gg/sRATVAR).
 
 | Name | Perms Needed | Usage | Description  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | movie |  | j\)movie &lt;movie\_name&gt; | Looks up a movie on themoviedb.org |
 | osub |  | j\)osub &lt;beatmapid&gt; | Looks up beat-maps on osu! |
 | roleinfo |  | j\)roleinfo \[name, role-mention\] | Gets the info for the Role. |
@@ -43,7 +43,6 @@ Have any questions? Join our hub! Click [here](https://discord.gg/sRATVAR).
 | invite |  | j\)invite | Gives jennifer invite link |
 | members |  | j\)members | Shows member count for your server |
 | ping |  | j\)ping \[-t\] | Shows ping for bot |
-|  |  |  |  |
 
 
 
