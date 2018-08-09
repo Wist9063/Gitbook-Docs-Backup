@@ -52,7 +52,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
 {% tabs %}
 {% tab title="When do we collect information?" %}
 We collect information from you when you **use our product**.  
-IDs, Guild Name, And Usernames
+IDs, Guild Name, The Command you Used, And Usernames
 {% endtab %}
 
 {% tab title="How do we use your information?" %}
