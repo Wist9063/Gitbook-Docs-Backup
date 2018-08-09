@@ -43,6 +43,7 @@ Have any questions? Join our hub! Click [here](https://discord.gg/sRATVAR).
 | invite |  | j\)invite | Gives jennifer invite link |
 | members |  | j\)members | Shows member count for your server |
 | ping |  | j\)ping \[-t\] | Shows ping for bot |
+| poll | `MANAGE_MESSAGES` | j\)poll \[minutes\] &lt;question&gt; | Makes a poll with your question like twitter's poll. \(60 is the default minutes\) |
 
 
 
