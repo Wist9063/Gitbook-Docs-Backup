@@ -11,7 +11,7 @@ Welcome to the home of feature rich Jennifer, _the new girl on the block_! \(ITS
 Jennifer has multiple features up her sleeve, like Moderation, Fun, Info, and Games.
 
 {% hint style="info" %}
-Jennifer is developed by HexaplexSoftware and partnered with Visual Fire Dev.
+The Jennifer Project is deveopled and managed by HexaplexSoftware, in partnership with Visual Fire Development.
 {% endhint %}
 
 ## Table Of Contents
