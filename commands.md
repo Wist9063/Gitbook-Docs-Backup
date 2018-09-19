@@ -4,7 +4,7 @@ description: The command list for Jennifer.
 
 # Command List
 
-Jennifer has 3 prefixes which are j\), J\), and @Jennifer
+Jennifer has 3 prefixes which are `j), J), and @Jennifer`
 
 Have any questions or suggestions? Join our hub! Click [here](https://discord.gg/sRATVAR).
 
