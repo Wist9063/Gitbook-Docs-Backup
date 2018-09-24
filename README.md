@@ -1,12 +1,8 @@
----
-description: >-
-  Welcome to the official documentation for Project Jennifer (or The Jennifer
-  Project)
----
+# Welcome to HexaplexSoftware
 
-# Welcome
+Welcome to the official documentation for any HexaplexSoftware or Wistful\_\_\#9063's projects.
 
-Welcome to the home of feature rich Jennifer, _the new girl on the block_! \(ITS NOT JUST A GIRL :D\)
+We have lots of up and coming projects that will be listed here!
 
-Jennifer has multiple features up her sleeve, like Moderation \(disabled for now\), Fun, Info, and Games.
+
 
