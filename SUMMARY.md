@@ -12,3 +12,5 @@
 
 ## discordlistapp-api
 
+* [Discordlistapp-api Documation](discordlistapp-api/discordlistapp-api-documation.md)
+
