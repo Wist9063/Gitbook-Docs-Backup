@@ -61,6 +61,8 @@ We may use the information we collect from you when you register, make a purchas
  **•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
  **•** To allow us to better service you in responding to your customer service requests.
+
+ **•** To allow us to track errors from within the bot.
 {% endtab %}
 
 {% tab title="How do we protect your information?" %}
