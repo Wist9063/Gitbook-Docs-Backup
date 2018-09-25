@@ -5,6 +5,6 @@ Welcome to the official documentation for any HexaplexSoftware or Wistful\_\_\#9
 We have lots of up coming projects that will be listed here!
 
 {% hint style="warning" %}
-Want to give feedback on our documentation website? Well join our hub [here](https://discord.gg/0xxkiR1rO4zRsYLp)! 
+Want to give feedback on our documentation website? Well join our discord hub [here](https://discord.gg/0xxkiR1rO4zRsYLp)! 
 {% endhint %}
 
