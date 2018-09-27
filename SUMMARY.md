@@ -13,4 +13,5 @@
 ## discordlistapp-api
 
 * [Discordlistapp-api Documation](discordlistapp-api/discordlistapp-api-documation.md)
+* [NPM link](https://www.npmjs.com/package/discordlistapp-api)
 
