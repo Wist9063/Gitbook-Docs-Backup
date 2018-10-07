@@ -2,7 +2,7 @@
 description: A simple way of communicating between Discord List App and node.js
 ---
 
-# Discordlistapp-api Documation
+# Discord List App-API Documentation
 
 ## discordlistapp-api
 
