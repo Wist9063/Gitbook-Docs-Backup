@@ -6,7 +6,8 @@ Jennifer has multiple features up her sleeve, like Moderation, Fun, Info, and Ga
 
 
 
-[![Discord Bots](https://discordbots.org/api/widget/341980888239702017.svg)](https://discordbots.org/bot/341980888239702017)
+![](../.gitbook/assets/image.png)
+
 
 
 {% hint style="info" %}
