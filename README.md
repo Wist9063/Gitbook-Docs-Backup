@@ -18,7 +18,3 @@ We have lots of up coming projects that will be listed here!
 * Discord List App-API
   * [Discord List App-API Documentation ](discordlistapp-api/discordlistapp-api-documation.md)
 
-{% hint style="warning" %}
-Want to give feedback on our documentation website? Well join our discord hub [here](https://discord.gg/0xxkiR1rO4zRsYLp)! 
-{% endhint %}
-
