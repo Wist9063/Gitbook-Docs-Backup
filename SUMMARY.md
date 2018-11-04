@@ -9,7 +9,6 @@
 * [Terms Of Service](the-jennifer-project/terms-of-service-and-privacy-policy.md)
 * [Privacy Policy](the-jennifer-project/terms-of-service.md)
 * [Invite Jennifer](https://discordapp.com/oauth2/authorize?client_id=341980888239702017&scope=bot&permissions=3533830)
-* [Join Jennifer's Hub](https://discord.gg/0xxkiR1rO4zRsYLp)
 
 ## discordlistapp-api
 
