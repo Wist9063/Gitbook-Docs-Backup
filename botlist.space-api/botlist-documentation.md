@@ -2,7 +2,7 @@
 
 ## NPM Package:
 
-{% embed url="https://www.npmjs.com/package/botlist.space-api" %}
+{% embed url="https://www.npmjs.com/package/botlist.space-api" caption="NPM Package. \(duh\)" %}
 
 For support, DM Wistful\_\_\#9063 on discord.
 
