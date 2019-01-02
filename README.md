@@ -1,20 +1,26 @@
-# Welcome to HexaplexSoftware
+# Home
 
 Welcome to the official documentation for any HexaplexSoftware or Wistful\_\_\#9063's projects.
 
 We have lots of up coming projects that will be listed here!
 
-## Table Of Contents
+## _**Table Of Contents**_
 
-* The Jennifer Project
-  * [Welcome To Jennifer](the-jennifer-project/welcome-to-jennifer.md)
-  * [Command List](the-jennifer-project/commands.md)
-    * [Fun Commands](the-jennifer-project/commands.md#fun-commands)
-    * [Moderation Commands](the-jennifer-project/commands.md#moderation-commands)
-    * [Info Commands](the-jennifer-project/commands.md#moderation-commands)
-    * [Utility Commands ](the-jennifer-project/commands.md#utility-commands)
-  * [Terms Of Service](the-jennifer-project/terms-of-service.md)
-  * [Privacy Policy](the-jennifer-project/terms-of-service.md)
-* Discord List App-API
-  * [Discord List App-API Documentation ](discordlistapp-api/discordlistapp-api-documation.md)
+### General
+
+{% page-ref page="./" %}
+
+### The Jennifer Project
+
+{% page-ref page="the-jennifer-project/welcome-to-jennifer.md" %}
+
+{% page-ref page="the-jennifer-project/commands.md" %}
+
+{% page-ref page="the-jennifer-project/road-map.md" %}
+
+{% page-ref page="the-jennifer-project/terms-of-service-and-privacy-policy.md" %}
+
+{% page-ref page="the-jennifer-project/terms-of-service.md" %}
+
+### 
 

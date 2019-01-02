@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to HexaplexSoftware](README.md)
+* [Home](README.md)
 
 ## The Jennifer Project
 
@@ -11,8 +11,8 @@
 * [Privacy Policy](the-jennifer-project/terms-of-service.md)
 * [Invite Jennifer](https://discordapp.com/oauth2/authorize?client_id=341980888239702017&scope=bot&permissions=3533830)
 
-## discordlistapp-api
+## Botlist.space-api
 
-* [Discord List App-API Documentation](discordlistapp-api/discordlistapp-api-documation.md)
-* [NPM link](https://www.npmjs.com/package/discordlistapp-api)
+* [Botlist Documentation](botlist.space-api/botlist-documentation.md)
+* [Serverlist Documentation](botlist.space-api/serverlist-documentation.md)
 
