@@ -1,5 +1,9 @@
 # Botlist Documentation
 
+## NPM Package:
+
+[https://www.npmjs.com/package/botlist.space-api](https://www.npmjs.com/package/botlist.space-api)
+
 ## Start the API.
 
 First install the package by running:
