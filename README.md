@@ -22,7 +22,7 @@ We have lots of up coming projects that will be listed here!
 
 {% page-ref page="the-jennifer-project/terms-of-service.md" %}
 
-## Botlist.space-API NPM Package
+### Botlist.space-API NPM Package
 
 {% page-ref page="botlist.space-api/botlist-documentation.md" %}
 
