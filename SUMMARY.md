@@ -15,4 +15,5 @@
 
 * [Botlist Documentation](botlist.space-api/botlist-documentation.md)
 * [Serverlist Documentation](botlist.space-api/serverlist-documentation.md)
+* [NPM Package](https://www.npmjs.com/package/botlist.space-api)
 

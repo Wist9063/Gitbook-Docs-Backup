@@ -1,12 +1,24 @@
 # Botlist Documentation
 
-## NPM Package:
+## Welcome to the documentation
+
+The official documentation for the NPM package botlist.space-api.
+
+### Botlist
+
+{% page-ref page="botlist-documentation.md" %}
+
+### Serverlist
+
+{% page-ref page="serverlist-documentation.md" %}
+
+## NPM Package
 
 {% embed url="https://www.npmjs.com/package/botlist.space-api" caption="NPM Package. \(duh\)" %}
 
 For support, DM Wistful\_\_\#9063 on discord.
 
-## Start the API.
+## Start the API
 
 First install the package by running:
 
@@ -27,14 +39,14 @@ const api = new botlistspaceAPI.botlistAPI('InsertUserKeyHere');
 Note, a user key is needed for **MOST** functions with the api.
 {% endhint %}
 
-## Functions with the API.
+## Functions with the API
 
 Now that you have your code set up, you can now interact the API.
 
 {% hint style="danger" %}
 Please remember like I said, a user key is need for **MOST** functions with the api.
 
-## ALL FUNCTIONS BELOW NEED A USER USER KEY.
+## ALL FUNCTIONS BELOW NEED A USER KEY.
 {% endhint %}
 
 **For more info on the functions like response, go** [**here**](https://botlistspace.gitbook.io/api/)**.**
