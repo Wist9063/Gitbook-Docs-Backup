@@ -68,6 +68,12 @@ All of these commands in this category requires permissions:
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">afk</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Sets you afk across all servers.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">stats</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Shows info for jennifer.</td>
@@ -82,7 +88,7 @@ All of these commands in this category requires permissions:
     <tr>
       <td style="text-align:left">hub</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Gives invite link for Jennifer\'s hub</td>
+      <td style="text-align:left">Gives invite link for Jennifer\&apos;s hub</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
